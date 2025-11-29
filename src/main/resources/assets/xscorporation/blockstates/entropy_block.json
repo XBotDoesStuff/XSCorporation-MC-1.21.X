@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "xscorporation:block/entropy_block"
+    }
+  }
+}
